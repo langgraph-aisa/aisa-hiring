@@ -1,5 +1,5 @@
 # Documento de implementación
-## Talento Claro · Reclutamiento automatizado por plaza
+## Talento AISA · Reclutamiento automatizado por plaza
 
 **Versión de referencia:** `5a988757`  
 **Proyecto:** `reclutamiento-automatizado`  
