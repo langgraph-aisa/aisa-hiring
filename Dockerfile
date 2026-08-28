@@ -35,4 +35,4 @@ RUN mkdir -p /app/uploads && chown -R nodejs:nodejs /app
 USER nodejs
 
 EXPOSE 3000
-CMD ["pnpm", "start"]
+CMD ["sh", "-c", "pnpm db:push && pnpm start"]
