@@ -1,0 +1,3392 @@
+{
+  "source": "INE Guatemala",
+  "source_url": "https://www.ine.gob.gt/sistema/uploads/2016/10/28/0NiM1ouoHaN67SRO2IzXZ5RNI7FeyHpn.xls",
+  "sheets": [
+    "Nomenclatura",
+    "Departamentos y municipios",
+    "Financiamiento Público"
+  ],
+  "rows": [
+    {
+      "source_sheet": "Nomenclatura",
+      "values": [
+        "Valores de las variables utilizadas en bases de datos"
+      ]
+    },
+    {
+      "source_sheet": "Nomenclatura",
+      "values": [
+        "Valor",
+        "Código",
+        "Etiqueta"
+      ]
+    },
+    {
+      "source_sheet": "Nomenclatura",
+      "values": [
+        "Sexo",
+        "1",
+        "Hombre"
+      ]
+    },
+    {
+      "source_sheet": "Nomenclatura",
+      "values": [
+        "2",
+        "Mujer"
+      ]
+    },
+    {
+      "source_sheet": "Nomenclatura",
+      "values": [
+        "Sector",
+        "01",
+        "Público"
+      ]
+    },
+    {
+      "source_sheet": "Nomenclatura",
+      "values": [
+        "02",
+        "Privado"
+      ]
+    },
+    {
+      "source_sheet": "Nomenclatura",
+      "values": [
+        "03",
+        "Municipal"
+      ]
+    },
+    {
+      "source_sheet": "Nomenclatura",
+      "values": [
+        "04",
+        "Cooperativa"
+      ]
+    },
+    {
+      "source_sheet": "Nomenclatura",
+      "values": [
+        "Nivel",
+        "1",
+        "Preprimaria"
+      ]
+    },
+    {
+      "source_sheet": "Nomenclatura",
+      "values": [
+        "2",
+        "Primaria"
+      ]
+    },
+    {
+      "source_sheet": "Nomenclatura",
+      "values": [
+        "3",
+        "Básico"
+      ]
+    },
+    {
+      "source_sheet": "Nomenclatura",
+      "values": [
+        "4",
+        "Diversificado"
+      ]
+    },
+    {
+      "source_sheet": "Nomenclatura",
+      "values": [
+        "5",
+        "Primaria adultos"
+      ]
+    },
+    {
+      "source_sheet": "Nomenclatura",
+      "values": [
+        "Estatus",
+        "1",
+        "No repitente"
+      ]
+    },
+    {
+      "source_sheet": "Nomenclatura",
+      "values": [
+        "2",
+        "Repitente"
+      ]
+    },
+    {
+      "source_sheet": "Nomenclatura",
+      "values": [
+        "Sector",
+        "01",
+        "Público"
+      ]
+    },
+    {
+      "source_sheet": "Nomenclatura",
+      "values": [
+        "02",
+        "Privado"
+      ]
+    },
+    {
+      "source_sheet": "Nomenclatura",
+      "values": [
+        "03",
+        "Municipal"
+      ]
+    },
+    {
+      "source_sheet": "Nomenclatura",
+      "values": [
+        "04",
+        "Cooperativa"
+      ]
+    },
+    {
+      "source_sheet": "Nomenclatura",
+      "values": [
+        "Comunidad Lingüística",
+        "1",
+        "Achí"
+      ]
+    },
+    {
+      "source_sheet": "Nomenclatura",
+      "values": [
+        "2",
+        "Akateco"
+      ]
+    },
+    {
+      "source_sheet": "Nomenclatura",
+      "values": [
+        "3",
+        "Awakateko"
+      ]
+    },
+    {
+      "source_sheet": "Nomenclatura",
+      "values": [
+        "4",
+        "Chalchiteko"
+      ]
+    },
+    {
+      "source_sheet": "Nomenclatura",
+      "values": [
+        "5",
+        "Chortí"
+      ]
+    },
+    {
+      "source_sheet": "Nomenclatura",
+      "values": [
+        "6",
+        "Chuj"
+      ]
+    },
+    {
+      "source_sheet": "Nomenclatura",
+      "values": [
+        "7",
+        "Itzá"
+      ]
+    },
+    {
+      "source_sheet": "Nomenclatura",
+      "values": [
+        "8",
+        "Ixil"
+      ]
+    },
+    {
+      "source_sheet": "Nomenclatura",
+      "values": [
+        "9",
+        "Poptí"
+      ]
+    },
+    {
+      "source_sheet": "Nomenclatura",
+      "values": [
+        "10",
+        "Kaqchikel"
+      ]
+    },
+    {
+      "source_sheet": "Nomenclatura",
+      "values": [
+        "11",
+        "Kiché"
+      ]
+    },
+    {
+      "source_sheet": "Nomenclatura",
+      "values": [
+        "12",
+        "Mam"
+      ]
+    },
+    {
+      "source_sheet": "Nomenclatura",
+      "values": [
+        "13",
+        "Mopan"
+      ]
+    },
+    {
+      "source_sheet": "Nomenclatura",
+      "values": [
+        "14",
+        "Poqomam"
+      ]
+    },
+    {
+      "source_sheet": "Nomenclatura",
+      "values": [
+        "15",
+        "Poqomchi"
+      ]
+    },
+    {
+      "source_sheet": "Nomenclatura",
+      "values": [
+        "16",
+        "Qanjobal"
+      ]
+    },
+    {
+      "source_sheet": "Nomenclatura",
+      "values": [
+        "17",
+        "Queqchi"
+      ]
+    },
+    {
+      "source_sheet": "Nomenclatura",
+      "values": [
+        "18",
+        "Sakapulteko"
+      ]
+    },
+    {
+      "source_sheet": "Nomenclatura",
+      "values": [
+        "19",
+        "Sipakapense"
+      ]
+    },
+    {
+      "source_sheet": "Nomenclatura",
+      "values": [
+        "20",
+        "Tektiteko"
+      ]
+    },
+    {
+      "source_sheet": "Nomenclatura",
+      "values": [
+        "21",
+        "Tzutujil"
+      ]
+    },
+    {
+      "source_sheet": "Nomenclatura",
+      "values": [
+        "22",
+        "Uspanteko"
+      ]
+    },
+    {
+      "source_sheet": "Nomenclatura",
+      "values": [
+        "23",
+        "Ladino / Mestizo"
+      ]
+    },
+    {
+      "source_sheet": "Nomenclatura",
+      "values": [
+        "24",
+        "Garífuna"
+      ]
+    },
+    {
+      "source_sheet": "Nomenclatura",
+      "values": [
+        "25",
+        "Xinka"
+      ]
+    },
+    {
+      "source_sheet": "Nomenclatura",
+      "values": [
+        "26",
+        "Otras comunidades"
+      ]
+    },
+    {
+      "source_sheet": "Nomenclatura",
+      "values": [
+        "Idioma en que recibe clases",
+        "1",
+        "Achí"
+      ]
+    },
+    {
+      "source_sheet": "Nomenclatura",
+      "values": [
+        "2",
+        "Akateco"
+      ]
+    },
+    {
+      "source_sheet": "Nomenclatura",
+      "values": [
+        "3",
+        "Awakateko"
+      ]
+    },
+    {
+      "source_sheet": "Nomenclatura",
+      "values": [
+        "4",
+        "Chalchiteko"
+      ]
+    },
+    {
+      "source_sheet": "Nomenclatura",
+      "values": [
+        "5",
+        "Chortí"
+      ]
+    },
+    {
+      "source_sheet": "Nomenclatura",
+      "values": [
+        "6",
+        "Chuj"
+      ]
+    },
+    {
+      "source_sheet": "Nomenclatura",
+      "values": [
+        "7",
+        "Itzá"
+      ]
+    },
+    {
+      "source_sheet": "Nomenclatura",
+      "values": [
+        "8",
+        "Ixil"
+      ]
+    },
+    {
+      "source_sheet": "Nomenclatura",
+      "values": [
+        "9",
+        "Poptí"
+      ]
+    },
+    {
+      "source_sheet": "Nomenclatura",
+      "values": [
+        "10",
+        "Kaqchikel"
+      ]
+    },
+    {
+      "source_sheet": "Nomenclatura",
+      "values": [
+        "11",
+        "Kiché"
+      ]
+    },
+    {
+      "source_sheet": "Nomenclatura",
+      "values": [
+        "12",
+        "Mam"
+      ]
+    },
+    {
+      "source_sheet": "Nomenclatura",
+      "values": [
+        "13",
+        "Mopan"
+      ]
+    },
+    {
+      "source_sheet": "Nomenclatura",
+      "values": [
+        "14",
+        "Poqomam"
+      ]
+    },
+    {
+      "source_sheet": "Nomenclatura",
+      "values": [
+        "15",
+        "Poqomchi"
+      ]
+    },
+    {
+      "source_sheet": "Nomenclatura",
+      "values": [
+        "16",
+        "Qanjobal"
+      ]
+    },
+    {
+      "source_sheet": "Nomenclatura",
+      "values": [
+        "17",
+        "Queqchi"
+      ]
+    },
+    {
+      "source_sheet": "Nomenclatura",
+      "values": [
+        "18",
+        "Sakapulteko"
+      ]
+    },
+    {
+      "source_sheet": "Nomenclatura",
+      "values": [
+        "19",
+        "Sipakapense"
+      ]
+    },
+    {
+      "source_sheet": "Nomenclatura",
+      "values": [
+        "20",
+        "Tektiteko"
+      ]
+    },
+    {
+      "source_sheet": "Nomenclatura",
+      "values": [
+        "21",
+        "Tzutujil"
+      ]
+    },
+    {
+      "source_sheet": "Nomenclatura",
+      "values": [
+        "22",
+        "Uspanteko"
+      ]
+    },
+    {
+      "source_sheet": "Nomenclatura",
+      "values": [
+        "23",
+        "Español"
+      ]
+    },
+    {
+      "source_sheet": "Nomenclatura",
+      "values": [
+        "24",
+        "Garífuna"
+      ]
+    },
+    {
+      "source_sheet": "Nomenclatura",
+      "values": [
+        "25",
+        "Xinka"
+      ]
+    },
+    {
+      "source_sheet": "Nomenclatura",
+      "values": [
+        "Grupo étnico",
+        "1",
+        "Indígena"
+      ]
+    },
+    {
+      "source_sheet": "Nomenclatura",
+      "values": [
+        "2",
+        "Ladino / Mestizo"
+      ]
+    },
+    {
+      "source_sheet": "Nomenclatura",
+      "values": [
+        "3",
+        "Garífuna"
+      ]
+    },
+    {
+      "source_sheet": "Nomenclatura",
+      "values": [
+        "4",
+        "Xinka"
+      ]
+    },
+    {
+      "source_sheet": "Departamentos y municipios",
+      "values": [
+        "Valores de las variables de departamento y municipio"
+      ]
+    },
+    {
+      "source_sheet": "Departamentos y municipios",
+      "values": [
+        "Valor",
+        "Código",
+        "Etiqueta"
+      ]
+    },
+    {
+      "source_sheet": "Departamentos y municipios",
+      "values": [
+        "Departamentos",
+        "1",
+        "Guatemala"
+      ]
+    },
+    {
+      "source_sheet": "Departamentos y municipios",
+      "values": [
+        "2",
+        "El Progreso"
+      ]
+    },
+    {
+      "source_sheet": "Departamentos y municipios",
+      "values": [
+        "3",
+        "Sacatepéquez"
+      ]
+    },
+    {
+      "source_sheet": "Departamentos y municipios",
+      "values": [
+        "4",
+        "Chimaltenango"
+      ]
+    },
+    {
+      "source_sheet": "Departamentos y municipios",
+      "values": [
+        "5",
+        "Escuintla"
+      ]
+    },
+    {
+      "source_sheet": "Departamentos y municipios",
+      "values": [
+        "6",
+        "Santa Rosa"
+      ]
+    },
+    {
+      "source_sheet": "Departamentos y municipios",
+      "values": [
+        "7",
+        "Sololá"
+      ]
+    },
+    {
+      "source_sheet": "Departamentos y municipios",
+      "values": [
+        "8",
+        "Totonicapán"
+      ]
+    },
+    {
+      "source_sheet": "Departamentos y municipios",
+      "values": [
+        "9",
+        "Quetzaltenango"
+      ]
+    },
+    {
+      "source_sheet": "Departamentos y municipios",
+      "values": [
+        "10",
+        "Suchitepéquez"
+      ]
+    },
+    {
+      "source_sheet": "Departamentos y municipios",
+      "values": [
+        "11",
+        "Retalhuleu"
+      ]
+    },
+    {
+      "source_sheet": "Departamentos y municipios",
+      "values": [
+        "12",
+        "San Marcos"
+      ]
+    },
+    {
+      "source_sheet": "Departamentos y municipios",
+      "values": [
+        "13",
+        "Huehuetenango"
+      ]
+    },
+    {
+      "source_sheet": "Departamentos y municipios",
+      "values": [
+        "14",
+        "Quiché"
+      ]
+    },
+    {
+      "source_sheet": "Departamentos y municipios",
+      "values": [
+        "15",
+        "Baja Verapaz"
+      ]
+    },
+    {
+      "source_sheet": "Departamentos y municipios",
+      "values": [
+        "16",
+        "Alta Verapaz"
+      ]
+    },
+    {
+      "source_sheet": "Departamentos y municipios",
+      "values": [
+        "17",
+        "Petén"
+      ]
+    },
+    {
+      "source_sheet": "Departamentos y municipios",
+      "values": [
+        "18",
+        "Izabal"
+      ]
+    },
+    {
+      "source_sheet": "Departamentos y municipios",
+      "values": [
+        "19",
+        "Zacapa"
+      ]
+    },
+    {
+      "source_sheet": "Departamentos y municipios",
+      "values": [
+        "20",
+        "Chiquimula"
+      ]
+    },
+    {
+      "source_sheet": "Departamentos y municipios",
+      "values": [
+        "21",
+        "Jalapa"
+      ]
+    },
+    {
+      "source_sheet": "Departamentos y municipios",
+      "values": [
+        "22",
+        "Jutiapa"
+      ]
+    },
+    {
+      "source_sheet": "Departamentos y municipios",
+      "values": [
+        "Municipios",
+        "0101",
+        "Guatemala"
+      ]
+    },
+    {
+      "source_sheet": "Departamentos y municipios",
+      "values": [
+        "0102",
+        "Santa Catarina Pinula"
+      ]
+    },
+    {
+      "source_sheet": "Departamentos y municipios",
+      "values": [
+        "0103",
+        "San José Pinula"
+      ]
+    },
+    {
+      "source_sheet": "Departamentos y municipios",
+      "values": [
+        "0104",
+        "San José del Golfo"
+      ]
+    },
+    {
+      "source_sheet": "Departamentos y municipios",
+      "values": [
+        "0105",
+        "Palencia"
+      ]
+    },
+    {
+      "source_sheet": "Departamentos y municipios",
+      "values": [
+        "0106",
+        "Chinautla"
+      ]
+    },
+    {
+      "source_sheet": "Departamentos y municipios",
+      "values": [
+        "0107",
+        "San Pedro Ayampuc"
+      ]
+    },
+    {
+      "source_sheet": "Departamentos y municipios",
+      "values": [
+        "0108",
+        "Mixco"
+      ]
+    },
+    {
+      "source_sheet": "Departamentos y municipios",
+      "values": [
+        "0109",
+        "San Pedro Sacatepéquez"
+      ]
+    },
+    {
+      "source_sheet": "Departamentos y municipios",
+      "values": [
+        "0110",
+        "San Juan Sacatepéquez"
+      ]
+    },
+    {
+      "source_sheet": "Departamentos y municipios",
+      "values": [
+        "0111",
+        "San Raymundo"
+      ]
+    },
+    {
+      "source_sheet": "Departamentos y municipios",
+      "values": [
+        "0112",
+        "Chuarrancho"
+      ]
+    },
+    {
+      "source_sheet": "Departamentos y municipios",
+      "values": [
+        "0113",
+        "Fraijanes"
+      ]
+    },
+    {
+      "source_sheet": "Departamentos y municipios",
+      "values": [
+        "0114",
+        "Amatitlán"
+      ]
+    },
+    {
+      "source_sheet": "Departamentos y municipios",
+      "values": [
+        "0115",
+        "Villa Nueva"
+      ]
+    },
+    {
+      "source_sheet": "Departamentos y municipios",
+      "values": [
+        "0116",
+        "Villa Canales"
+      ]
+    },
+    {
+      "source_sheet": "Departamentos y municipios",
+      "values": [
+        "0117",
+        "Petapa"
+      ]
+    },
+    {
+      "source_sheet": "Departamentos y municipios",
+      "values": [
+        "0201",
+        "Guastatoya"
+      ]
+    },
+    {
+      "source_sheet": "Departamentos y municipios",
+      "values": [
+        "0202",
+        "Morazán"
+      ]
+    },
+    {
+      "source_sheet": "Departamentos y municipios",
+      "values": [
+        "0203",
+        "San Agustín Acasaguastlán"
+      ]
+    },
+    {
+      "source_sheet": "Departamentos y municipios",
+      "values": [
+        "0204",
+        "San Cristóbal Acasaguastlán"
+      ]
+    },
+    {
+      "source_sheet": "Departamentos y municipios",
+      "values": [
+        "0205",
+        "El Jícaro"
+      ]
+    },
+    {
+      "source_sheet": "Departamentos y municipios",
+      "values": [
+        "0206",
+        "Sansare"
+      ]
+    },
+    {
+      "source_sheet": "Departamentos y municipios",
+      "values": [
+        "0207",
+        "Sanarate"
+      ]
+    },
+    {
+      "source_sheet": "Departamentos y municipios",
+      "values": [
+        "0208",
+        "San Antonio la Paz"
+      ]
+    },
+    {
+      "source_sheet": "Departamentos y municipios",
+      "values": [
+        "0301",
+        "Antigua Guatemala"
+      ]
+    },
+    {
+      "source_sheet": "Departamentos y municipios",
+      "values": [
+        "0302",
+        "Jocotenango"
+      ]
+    },
+    {
+      "source_sheet": "Departamentos y municipios",
+      "values": [
+        "0303",
+        "Pastores"
+      ]
+    },
+    {
+      "source_sheet": "Departamentos y municipios",
+      "values": [
+        "0304",
+        "Sumpango"
+      ]
+    },
+    {
+      "source_sheet": "Departamentos y municipios",
+      "values": [
+        "0305",
+        "Santo Domingo Xenacoj"
+      ]
+    },
+    {
+      "source_sheet": "Departamentos y municipios",
+      "values": [
+        "0306",
+        "Santiago Sacatepéquez"
+      ]
+    },
+    {
+      "source_sheet": "Departamentos y municipios",
+      "values": [
+        "0307",
+        "San Bartolomé Milpas Altas"
+      ]
+    },
+    {
+      "source_sheet": "Departamentos y municipios",
+      "values": [
+        "0308",
+        "San Lucas Sacatepéquez"
+      ]
+    },
+    {
+      "source_sheet": "Departamentos y municipios",
+      "values": [
+        "0309",
+        "Santa Lucía Milpas Altas"
+      ]
+    },
+    {
+      "source_sheet": "Departamentos y municipios",
+      "values": [
+        "0310",
+        "Magdalena Milpas Altas"
+      ]
+    },
+    {
+      "source_sheet": "Departamentos y municipios",
+      "values": [
+        "0311",
+        "Santa María de Jesús"
+      ]
+    },
+    {
+      "source_sheet": "Departamentos y municipios",
+      "values": [
+        "0312",
+        "Ciudad Vieja"
+      ]
+    },
+    {
+      "source_sheet": "Departamentos y municipios",
+      "values": [
+        "0313",
+        "San Miguel Dueñas"
+      ]
+    },
+    {
+      "source_sheet": "Departamentos y municipios",
+      "values": [
+        "0314",
+        "Alotenango"
+      ]
+    },
+    {
+      "source_sheet": "Departamentos y municipios",
+      "values": [
+        "0315",
+        "San Antonio Aguas Calientes"
+      ]
+    },
+    {
+      "source_sheet": "Departamentos y municipios",
+      "values": [
+        "0316",
+        "Santa Catarina Barahona"
+      ]
+    },
+    {
+      "source_sheet": "Departamentos y municipios",
+      "values": [
+        "0401",
+        "Chimaltenango"
+      ]
+    },
+    {
+      "source_sheet": "Departamentos y municipios",
+      "values": [
+        "0402",
+        "San José Poaquil"
+      ]
+    },
+    {
+      "source_sheet": "Departamentos y municipios",
+      "values": [
+        "0403",
+        "San Martín Jilotepeque"
+      ]
+    },
+    {
+      "source_sheet": "Departamentos y municipios",
+      "values": [
+        "0404",
+        "Comalapa"
+      ]
+    },
+    {
+      "source_sheet": "Departamentos y municipios",
+      "values": [
+        "0405",
+        "Santa Apolonia"
+      ]
+    },
+    {
+      "source_sheet": "Departamentos y municipios",
+      "values": [
+        "0406",
+        "Tecpán Guatemala"
+      ]
+    },
+    {
+      "source_sheet": "Departamentos y municipios",
+      "values": [
+        "0407",
+        "Patzún"
+      ]
+    },
+    {
+      "source_sheet": "Departamentos y municipios",
+      "values": [
+        "0408",
+        "Pochuta"
+      ]
+    },
+    {
+      "source_sheet": "Departamentos y municipios",
+      "values": [
+        "0409",
+        "Patzicía"
+      ]
+    },
+    {
+      "source_sheet": "Departamentos y municipios",
+      "values": [
+        "0410",
+        "Santa Cruz Balanyá"
+      ]
+    },
+    {
+      "source_sheet": "Departamentos y municipios",
+      "values": [
+        "0411",
+        "Acatenango"
+      ]
+    },
+    {
+      "source_sheet": "Departamentos y municipios",
+      "values": [
+        "0412",
+        "Yepocapa"
+      ]
+    },
+    {
+      "source_sheet": "Departamentos y municipios",
+      "values": [
+        "0413",
+        "San Andrés Itzapa"
+      ]
+    },
+    {
+      "source_sheet": "Departamentos y municipios",
+      "values": [
+        "0414",
+        "Parramos"
+      ]
+    },
+    {
+      "source_sheet": "Departamentos y municipios",
+      "values": [
+        "0415",
+        "Zaragoza"
+      ]
+    },
+    {
+      "source_sheet": "Departamentos y municipios",
+      "values": [
+        "0416",
+        "El Tejar"
+      ]
+    },
+    {
+      "source_sheet": "Departamentos y municipios",
+      "values": [
+        "0501",
+        "Escuintla"
+      ]
+    },
+    {
+      "source_sheet": "Departamentos y municipios",
+      "values": [
+        "0502",
+        "Santa Lucía Cotzumalguapa"
+      ]
+    },
+    {
+      "source_sheet": "Departamentos y municipios",
+      "values": [
+        "0503",
+        "La Democracia"
+      ]
+    },
+    {
+      "source_sheet": "Departamentos y municipios",
+      "values": [
+        "0504",
+        "Siquinalá"
+      ]
+    },
+    {
+      "source_sheet": "Departamentos y municipios",
+      "values": [
+        "0505",
+        "Masagua"
+      ]
+    },
+    {
+      "source_sheet": "Departamentos y municipios",
+      "values": [
+        "0506",
+        "Tiquisate"
+      ]
+    },
+    {
+      "source_sheet": "Departamentos y municipios",
+      "values": [
+        "0507",
+        "La Gomera"
+      ]
+    },
+    {
+      "source_sheet": "Departamentos y municipios",
+      "values": [
+        "0508",
+        "Guanagazapa"
+      ]
+    },
+    {
+      "source_sheet": "Departamentos y municipios",
+      "values": [
+        "0509",
+        "San José"
+      ]
+    },
+    {
+      "source_sheet": "Departamentos y municipios",
+      "values": [
+        "0510",
+        "Iztapa"
+      ]
+    },
+    {
+      "source_sheet": "Departamentos y municipios",
+      "values": [
+        "0511",
+        "Palín"
+      ]
+    },
+    {
+      "source_sheet": "Departamentos y municipios",
+      "values": [
+        "0512",
+        "San Vicente Pacaya"
+      ]
+    },
+    {
+      "source_sheet": "Departamentos y municipios",
+      "values": [
+        "0513",
+        "Nueva Concepción"
+      ]
+    },
+    {
+      "source_sheet": "Departamentos y municipios",
+      "values": [
+        "0601",
+        "Cuilapa"
+      ]
+    },
+    {
+      "source_sheet": "Departamentos y municipios",
+      "values": [
+        "0602",
+        "Barberena"
+      ]
+    },
+    {
+      "source_sheet": "Departamentos y municipios",
+      "values": [
+        "0603",
+        "Santa Rosa de Lima"
+      ]
+    },
+    {
+      "source_sheet": "Departamentos y municipios",
+      "values": [
+        "0604",
+        "Casillas"
+      ]
+    },
+    {
+      "source_sheet": "Departamentos y municipios",
+      "values": [
+        "0605",
+        "San Rafael las Flores"
+      ]
+    },
+    {
+      "source_sheet": "Departamentos y municipios",
+      "values": [
+        "0606",
+        "Oratorio"
+      ]
+    },
+    {
+      "source_sheet": "Departamentos y municipios",
+      "values": [
+        "0607",
+        "San Juan Tecuaco"
+      ]
+    },
+    {
+      "source_sheet": "Departamentos y municipios",
+      "values": [
+        "0608",
+        "Chiquimulilla"
+      ]
+    },
+    {
+      "source_sheet": "Departamentos y municipios",
+      "values": [
+        "0609",
+        "Taxisco"
+      ]
+    },
+    {
+      "source_sheet": "Departamentos y municipios",
+      "values": [
+        "0610",
+        "Santa María Ixhuatán"
+      ]
+    },
+    {
+      "source_sheet": "Departamentos y municipios",
+      "values": [
+        "0611",
+        "Guazacapán"
+      ]
+    },
+    {
+      "source_sheet": "Departamentos y municipios",
+      "values": [
+        "0612",
+        "Santa Cruz Naranjo"
+      ]
+    },
+    {
+      "source_sheet": "Departamentos y municipios",
+      "values": [
+        "0613",
+        "Pueblo Nuevo Viñas"
+      ]
+    },
+    {
+      "source_sheet": "Departamentos y municipios",
+      "values": [
+        "0614",
+        "Nueva Santa Rosa"
+      ]
+    },
+    {
+      "source_sheet": "Departamentos y municipios",
+      "values": [
+        "0701",
+        "Sololá"
+      ]
+    },
+    {
+      "source_sheet": "Departamentos y municipios",
+      "values": [
+        "0702",
+        "San José Chacayá"
+      ]
+    },
+    {
+      "source_sheet": "Departamentos y municipios",
+      "values": [
+        "0703",
+        "Santa María Visitación"
+      ]
+    },
+    {
+      "source_sheet": "Departamentos y municipios",
+      "values": [
+        "0704",
+        "Santa Lucía Utatlán"
+      ]
+    },
+    {
+      "source_sheet": "Departamentos y municipios",
+      "values": [
+        "0705",
+        "Nahualá"
+      ]
+    },
+    {
+      "source_sheet": "Departamentos y municipios",
+      "values": [
+        "0706",
+        "Santa Catarina Ixtahuacán"
+      ]
+    },
+    {
+      "source_sheet": "Departamentos y municipios",
+      "values": [
+        "0707",
+        "Santa Clara la Laguna"
+      ]
+    },
+    {
+      "source_sheet": "Departamentos y municipios",
+      "values": [
+        "0708",
+        "Concepción"
+      ]
+    },
+    {
+      "source_sheet": "Departamentos y municipios",
+      "values": [
+        "0709",
+        "San Andrés Semetabaj"
+      ]
+    },
+    {
+      "source_sheet": "Departamentos y municipios",
+      "values": [
+        "0710",
+        "Panajachel"
+      ]
+    },
+    {
+      "source_sheet": "Departamentos y municipios",
+      "values": [
+        "0711",
+        "Santa Catarina Palopó"
+      ]
+    },
+    {
+      "source_sheet": "Departamentos y municipios",
+      "values": [
+        "0712",
+        "San Antonio Palopó"
+      ]
+    },
+    {
+      "source_sheet": "Departamentos y municipios",
+      "values": [
+        "0713",
+        "San Lucas Tolimán"
+      ]
+    },
+    {
+      "source_sheet": "Departamentos y municipios",
+      "values": [
+        "0714",
+        "Santa Cruz la Laguna"
+      ]
+    },
+    {
+      "source_sheet": "Departamentos y municipios",
+      "values": [
+        "0715",
+        "San Pablo la Laguna"
+      ]
+    },
+    {
+      "source_sheet": "Departamentos y municipios",
+      "values": [
+        "0716",
+        "San Marcos la Laguna"
+      ]
+    },
+    {
+      "source_sheet": "Departamentos y municipios",
+      "values": [
+        "0717",
+        "San Juan la Laguna"
+      ]
+    },
+    {
+      "source_sheet": "Departamentos y municipios",
+      "values": [
+        "0718",
+        "San Pedro la Laguna"
+      ]
+    },
+    {
+      "source_sheet": "Departamentos y municipios",
+      "values": [
+        "0719",
+        "Santiago Atitlán"
+      ]
+    },
+    {
+      "source_sheet": "Departamentos y municipios",
+      "values": [
+        "0801",
+        "Totonicapán"
+      ]
+    },
+    {
+      "source_sheet": "Departamentos y municipios",
+      "values": [
+        "0802",
+        "San Cristóbal Totonicapán"
+      ]
+    },
+    {
+      "source_sheet": "Departamentos y municipios",
+      "values": [
+        "0803",
+        "San Francisco el Alto"
+      ]
+    },
+    {
+      "source_sheet": "Departamentos y municipios",
+      "values": [
+        "0804",
+        "San Andrés Xecul"
+      ]
+    },
+    {
+      "source_sheet": "Departamentos y municipios",
+      "values": [
+        "0805",
+        "Momostenango"
+      ]
+    },
+    {
+      "source_sheet": "Departamentos y municipios",
+      "values": [
+        "0806",
+        "Santa María Chiquimula"
+      ]
+    },
+    {
+      "source_sheet": "Departamentos y municipios",
+      "values": [
+        "0807",
+        "Santa Lucía la Reforma"
+      ]
+    },
+    {
+      "source_sheet": "Departamentos y municipios",
+      "values": [
+        "0808",
+        "San Bartolo"
+      ]
+    },
+    {
+      "source_sheet": "Departamentos y municipios",
+      "values": [
+        "0901",
+        "Quetzaltenango"
+      ]
+    },
+    {
+      "source_sheet": "Departamentos y municipios",
+      "values": [
+        "0902",
+        "Salcajá"
+      ]
+    },
+    {
+      "source_sheet": "Departamentos y municipios",
+      "values": [
+        "0903",
+        "Olintepeque"
+      ]
+    },
+    {
+      "source_sheet": "Departamentos y municipios",
+      "values": [
+        "0904",
+        "San Carlos Sija"
+      ]
+    },
+    {
+      "source_sheet": "Departamentos y municipios",
+      "values": [
+        "0905",
+        "Sibilia"
+      ]
+    },
+    {
+      "source_sheet": "Departamentos y municipios",
+      "values": [
+        "0906",
+        "Cabricán"
+      ]
+    },
+    {
+      "source_sheet": "Departamentos y municipios",
+      "values": [
+        "0907",
+        "Cajolá"
+      ]
+    },
+    {
+      "source_sheet": "Departamentos y municipios",
+      "values": [
+        "0908",
+        "San Miguel Siguilá"
+      ]
+    },
+    {
+      "source_sheet": "Departamentos y municipios",
+      "values": [
+        "0909",
+        "Ostuncalco"
+      ]
+    },
+    {
+      "source_sheet": "Departamentos y municipios",
+      "values": [
+        "0910",
+        "San Mateo"
+      ]
+    },
+    {
+      "source_sheet": "Departamentos y municipios",
+      "values": [
+        "0911",
+        "Concepción Chiquirichapa"
+      ]
+    },
+    {
+      "source_sheet": "Departamentos y municipios",
+      "values": [
+        "0912",
+        "San Martín Sacatepéquez"
+      ]
+    },
+    {
+      "source_sheet": "Departamentos y municipios",
+      "values": [
+        "0913",
+        "Almolonga"
+      ]
+    },
+    {
+      "source_sheet": "Departamentos y municipios",
+      "values": [
+        "0914",
+        "Cantel"
+      ]
+    },
+    {
+      "source_sheet": "Departamentos y municipios",
+      "values": [
+        "0915",
+        "Huitán"
+      ]
+    },
+    {
+      "source_sheet": "Departamentos y municipios",
+      "values": [
+        "0916",
+        "Zunil"
+      ]
+    },
+    {
+      "source_sheet": "Departamentos y municipios",
+      "values": [
+        "0917",
+        "Colomba"
+      ]
+    },
+    {
+      "source_sheet": "Departamentos y municipios",
+      "values": [
+        "0918",
+        "San Francisco la Unión"
+      ]
+    },
+    {
+      "source_sheet": "Departamentos y municipios",
+      "values": [
+        "0919",
+        "El Palmar"
+      ]
+    },
+    {
+      "source_sheet": "Departamentos y municipios",
+      "values": [
+        "0920",
+        "Coatepeque"
+      ]
+    },
+    {
+      "source_sheet": "Departamentos y municipios",
+      "values": [
+        "0921",
+        "Génova"
+      ]
+    },
+    {
+      "source_sheet": "Departamentos y municipios",
+      "values": [
+        "0922",
+        "Flores Costa Cuca"
+      ]
+    },
+    {
+      "source_sheet": "Departamentos y municipios",
+      "values": [
+        "0923",
+        "La Esperanza"
+      ]
+    },
+    {
+      "source_sheet": "Departamentos y municipios",
+      "values": [
+        "0924",
+        "Palestina de los Altos"
+      ]
+    },
+    {
+      "source_sheet": "Departamentos y municipios",
+      "values": [
+        "1001",
+        "Mazatenango"
+      ]
+    },
+    {
+      "source_sheet": "Departamentos y municipios",
+      "values": [
+        "1002",
+        "Cuyotenango"
+      ]
+    },
+    {
+      "source_sheet": "Departamentos y municipios",
+      "values": [
+        "1003",
+        "San Francisco Zapotitlán"
+      ]
+    },
+    {
+      "source_sheet": "Departamentos y municipios",
+      "values": [
+        "1004",
+        "San Bernardino"
+      ]
+    },
+    {
+      "source_sheet": "Departamentos y municipios",
+      "values": [
+        "1005",
+        "San José el Idolo"
+      ]
+    },
+    {
+      "source_sheet": "Departamentos y municipios",
+      "values": [
+        "1006",
+        "Santo Domingo Suchitepéquez"
+      ]
+    },
+    {
+      "source_sheet": "Departamentos y municipios",
+      "values": [
+        "1007",
+        "San Lorenzo"
+      ]
+    },
+    {
+      "source_sheet": "Departamentos y municipios",
+      "values": [
+        "1008",
+        "Samayac"
+      ]
+    },
+    {
+      "source_sheet": "Departamentos y municipios",
+      "values": [
+        "1009",
+        "San Pablo Jocopilas"
+      ]
+    },
+    {
+      "source_sheet": "Departamentos y municipios",
+      "values": [
+        "1010",
+        "San Antonio Suchitepéquez"
+      ]
+    },
+    {
+      "source_sheet": "Departamentos y municipios",
+      "values": [
+        "1011",
+        "San Miguel Panán"
+      ]
+    },
+    {
+      "source_sheet": "Departamentos y municipios",
+      "values": [
+        "1012",
+        "San Gabriel"
+      ]
+    },
+    {
+      "source_sheet": "Departamentos y municipios",
+      "values": [
+        "1013",
+        "Chicacao"
+      ]
+    },
+    {
+      "source_sheet": "Departamentos y municipios",
+      "values": [
+        "1014",
+        "Patulul"
+      ]
+    },
+    {
+      "source_sheet": "Departamentos y municipios",
+      "values": [
+        "1015",
+        "Santa Bárbara"
+      ]
+    },
+    {
+      "source_sheet": "Departamentos y municipios",
+      "values": [
+        "1016",
+        "San Juan Bautista"
+      ]
+    },
+    {
+      "source_sheet": "Departamentos y municipios",
+      "values": [
+        "1017",
+        "Santo Tomás la Unión"
+      ]
+    },
+    {
+      "source_sheet": "Departamentos y municipios",
+      "values": [
+        "1018",
+        "Zunilito"
+      ]
+    },
+    {
+      "source_sheet": "Departamentos y municipios",
+      "values": [
+        "1019",
+        "Pueblo Nuevo"
+      ]
+    },
+    {
+      "source_sheet": "Departamentos y municipios",
+      "values": [
+        "1020",
+        "Río Bravo"
+      ]
+    },
+    {
+      "source_sheet": "Departamentos y municipios",
+      "values": [
+        "1021",
+        "San José La Máquina"
+      ]
+    },
+    {
+      "source_sheet": "Departamentos y municipios",
+      "values": [
+        "1101",
+        "Retalhuleu"
+      ]
+    },
+    {
+      "source_sheet": "Departamentos y municipios",
+      "values": [
+        "1102",
+        "San Sebastián"
+      ]
+    },
+    {
+      "source_sheet": "Departamentos y municipios",
+      "values": [
+        "1103",
+        "Santa Cruz Muluá"
+      ]
+    },
+    {
+      "source_sheet": "Departamentos y municipios",
+      "values": [
+        "1104",
+        "San Martín Zapotitlán"
+      ]
+    },
+    {
+      "source_sheet": "Departamentos y municipios",
+      "values": [
+        "1105",
+        "San Felipe"
+      ]
+    },
+    {
+      "source_sheet": "Departamentos y municipios",
+      "values": [
+        "1106",
+        "San Andrés Villa Seca"
+      ]
+    },
+    {
+      "source_sheet": "Departamentos y municipios",
+      "values": [
+        "1107",
+        "Champerico"
+      ]
+    },
+    {
+      "source_sheet": "Departamentos y municipios",
+      "values": [
+        "1108",
+        "Nuevo San Carlos"
+      ]
+    },
+    {
+      "source_sheet": "Departamentos y municipios",
+      "values": [
+        "1109",
+        "El Asintal"
+      ]
+    },
+    {
+      "source_sheet": "Departamentos y municipios",
+      "values": [
+        "1201",
+        "San Marcos"
+      ]
+    },
+    {
+      "source_sheet": "Departamentos y municipios",
+      "values": [
+        "1202",
+        "San Pedro Sacatepéquez"
+      ]
+    },
+    {
+      "source_sheet": "Departamentos y municipios",
+      "values": [
+        "1203",
+        "San Antonio Sacatepéquez"
+      ]
+    },
+    {
+      "source_sheet": "Departamentos y municipios",
+      "values": [
+        "1204",
+        "Comitancillo"
+      ]
+    },
+    {
+      "source_sheet": "Departamentos y municipios",
+      "values": [
+        "1205",
+        "San Miguel Ixtahuacán"
+      ]
+    },
+    {
+      "source_sheet": "Departamentos y municipios",
+      "values": [
+        "1206",
+        "Concepción Tutuapa"
+      ]
+    },
+    {
+      "source_sheet": "Departamentos y municipios",
+      "values": [
+        "1207",
+        "Tacaná"
+      ]
+    },
+    {
+      "source_sheet": "Departamentos y municipios",
+      "values": [
+        "1208",
+        "Sibinal"
+      ]
+    },
+    {
+      "source_sheet": "Departamentos y municipios",
+      "values": [
+        "1209",
+        "Tajumulco"
+      ]
+    },
+    {
+      "source_sheet": "Departamentos y municipios",
+      "values": [
+        "1210",
+        "Tejutla"
+      ]
+    },
+    {
+      "source_sheet": "Departamentos y municipios",
+      "values": [
+        "1211",
+        "San Rafael Pié de la Cuesta"
+      ]
+    },
+    {
+      "source_sheet": "Departamentos y municipios",
+      "values": [
+        "1212",
+        "Nuevo Progreso"
+      ]
+    },
+    {
+      "source_sheet": "Departamentos y municipios",
+      "values": [
+        "1213",
+        "El Tumbador"
+      ]
+    },
+    {
+      "source_sheet": "Departamentos y municipios",
+      "values": [
+        "1214",
+        "El Rodeo"
+      ]
+    },
+    {
+      "source_sheet": "Departamentos y municipios",
+      "values": [
+        "1215",
+        "Malacatán"
+      ]
+    },
+    {
+      "source_sheet": "Departamentos y municipios",
+      "values": [
+        "1216",
+        "Catarina"
+      ]
+    },
+    {
+      "source_sheet": "Departamentos y municipios",
+      "values": [
+        "1217",
+        "Ayutla"
+      ]
+    },
+    {
+      "source_sheet": "Departamentos y municipios",
+      "values": [
+        "1218",
+        "Ocós"
+      ]
+    },
+    {
+      "source_sheet": "Departamentos y municipios",
+      "values": [
+        "1219",
+        "San Pablo"
+      ]
+    },
+    {
+      "source_sheet": "Departamentos y municipios",
+      "values": [
+        "1220",
+        "El Quetzal"
+      ]
+    },
+    {
+      "source_sheet": "Departamentos y municipios",
+      "values": [
+        "1221",
+        "La Reforma"
+      ]
+    },
+    {
+      "source_sheet": "Departamentos y municipios",
+      "values": [
+        "1222",
+        "Pajapita"
+      ]
+    },
+    {
+      "source_sheet": "Departamentos y municipios",
+      "values": [
+        "1223",
+        "Ixchiguán"
+      ]
+    },
+    {
+      "source_sheet": "Departamentos y municipios",
+      "values": [
+        "1224",
+        "San José Ojetenán"
+      ]
+    },
+    {
+      "source_sheet": "Departamentos y municipios",
+      "values": [
+        "1225",
+        "San Cristóbal Cucho"
+      ]
+    },
+    {
+      "source_sheet": "Departamentos y municipios",
+      "values": [
+        "1226",
+        "Sipacapa"
+      ]
+    },
+    {
+      "source_sheet": "Departamentos y municipios",
+      "values": [
+        "1227",
+        "Esquipulas Palo Gordo"
+      ]
+    },
+    {
+      "source_sheet": "Departamentos y municipios",
+      "values": [
+        "1228",
+        "Río Blanco"
+      ]
+    },
+    {
+      "source_sheet": "Departamentos y municipios",
+      "values": [
+        "1229",
+        "San Lorenzo"
+      ]
+    },
+    {
+      "source_sheet": "Departamentos y municipios",
+      "values": [
+        "1230",
+        "La Blanca"
+      ]
+    },
+    {
+      "source_sheet": "Departamentos y municipios",
+      "values": [
+        "1301",
+        "Huehuetenango"
+      ]
+    },
+    {
+      "source_sheet": "Departamentos y municipios",
+      "values": [
+        "1302",
+        "Chiantla"
+      ]
+    },
+    {
+      "source_sheet": "Departamentos y municipios",
+      "values": [
+        "1303",
+        "Malacatancito"
+      ]
+    },
+    {
+      "source_sheet": "Departamentos y municipios",
+      "values": [
+        "1304",
+        "Cuilco"
+      ]
+    },
+    {
+      "source_sheet": "Departamentos y municipios",
+      "values": [
+        "1305",
+        "Nentón"
+      ]
+    },
+    {
+      "source_sheet": "Departamentos y municipios",
+      "values": [
+        "1306",
+        "San Pedro Necta"
+      ]
+    },
+    {
+      "source_sheet": "Departamentos y municipios",
+      "values": [
+        "1307",
+        "Jacaltenango"
+      ]
+    },
+    {
+      "source_sheet": "Departamentos y municipios",
+      "values": [
+        "1308",
+        "Soloma"
+      ]
+    },
+    {
+      "source_sheet": "Departamentos y municipios",
+      "values": [
+        "1309",
+        "Ixtahuacán"
+      ]
+    },
+    {
+      "source_sheet": "Departamentos y municipios",
+      "values": [
+        "1310",
+        "Santa Bárbara"
+      ]
+    },
+    {
+      "source_sheet": "Departamentos y municipios",
+      "values": [
+        "1311",
+        "La Libertad"
+      ]
+    },
+    {
+      "source_sheet": "Departamentos y municipios",
+      "values": [
+        "1312",
+        "La Democracia"
+      ]
+    },
+    {
+      "source_sheet": "Departamentos y municipios",
+      "values": [
+        "1313",
+        "San Miguel Acatán"
+      ]
+    },
+    {
+      "source_sheet": "Departamentos y municipios",
+      "values": [
+        "1314",
+        "San Rafael la Independencia"
+      ]
+    },
+    {
+      "source_sheet": "Departamentos y municipios",
+      "values": [
+        "1315",
+        "Todos Santos Cuchumatán"
+      ]
+    },
+    {
+      "source_sheet": "Departamentos y municipios",
+      "values": [
+        "1316",
+        "San Juan Atitán"
+      ]
+    },
+    {
+      "source_sheet": "Departamentos y municipios",
+      "values": [
+        "1317",
+        "Santa Eulalia"
+      ]
+    },
+    {
+      "source_sheet": "Departamentos y municipios",
+      "values": [
+        "1318",
+        "San Mateo Ixtatán"
+      ]
+    },
+    {
+      "source_sheet": "Departamentos y municipios",
+      "values": [
+        "1319",
+        "Colotenango"
+      ]
+    },
+    {
+      "source_sheet": "Departamentos y municipios",
+      "values": [
+        "1320",
+        "San Sebastián Huehuetenango"
+      ]
+    },
+    {
+      "source_sheet": "Departamentos y municipios",
+      "values": [
+        "1321",
+        "Tectitán"
+      ]
+    },
+    {
+      "source_sheet": "Departamentos y municipios",
+      "values": [
+        "1322",
+        "Concepción Huista"
+      ]
+    },
+    {
+      "source_sheet": "Departamentos y municipios",
+      "values": [
+        "1323",
+        "San Juan Ixcoy"
+      ]
+    },
+    {
+      "source_sheet": "Departamentos y municipios",
+      "values": [
+        "1324",
+        "San Antonio Huista"
+      ]
+    },
+    {
+      "source_sheet": "Departamentos y municipios",
+      "values": [
+        "1325",
+        "San Sebastián Coatán"
+      ]
+    },
+    {
+      "source_sheet": "Departamentos y municipios",
+      "values": [
+        "1326",
+        "Barillas"
+      ]
+    },
+    {
+      "source_sheet": "Departamentos y municipios",
+      "values": [
+        "1327",
+        "Aguacatán"
+      ]
+    },
+    {
+      "source_sheet": "Departamentos y municipios",
+      "values": [
+        "1328",
+        "San Rafael Petzal"
+      ]
+    },
+    {
+      "source_sheet": "Departamentos y municipios",
+      "values": [
+        "1329",
+        "San Gaspar Ixchil"
+      ]
+    },
+    {
+      "source_sheet": "Departamentos y municipios",
+      "values": [
+        "1330",
+        "Santiago Chimaltenango"
+      ]
+    },
+    {
+      "source_sheet": "Departamentos y municipios",
+      "values": [
+        "1331",
+        "Santa Ana Huista"
+      ]
+    },
+    {
+      "source_sheet": "Departamentos y municipios",
+      "values": [
+        "1332",
+        "Unión Cantinil"
+      ]
+    },
+    {
+      "source_sheet": "Departamentos y municipios",
+      "values": [
+        "1401",
+        "Santa Cruz del Quiché"
+      ]
+    },
+    {
+      "source_sheet": "Departamentos y municipios",
+      "values": [
+        "1402",
+        "Chiché"
+      ]
+    },
+    {
+      "source_sheet": "Departamentos y municipios",
+      "values": [
+        "1403",
+        "Chinique"
+      ]
+    },
+    {
+      "source_sheet": "Departamentos y municipios",
+      "values": [
+        "1404",
+        "Zacualpa"
+      ]
+    },
+    {
+      "source_sheet": "Departamentos y municipios",
+      "values": [
+        "1405",
+        "Chajul"
+      ]
+    },
+    {
+      "source_sheet": "Departamentos y municipios",
+      "values": [
+        "1406",
+        "Chichicastenango"
+      ]
+    },
+    {
+      "source_sheet": "Departamentos y municipios",
+      "values": [
+        "1407",
+        "Patzité"
+      ]
+    },
+    {
+      "source_sheet": "Departamentos y municipios",
+      "values": [
+        "1408",
+        "San Antonio Ilotenango"
+      ]
+    },
+    {
+      "source_sheet": "Departamentos y municipios",
+      "values": [
+        "1409",
+        "San Pedro Jocopilas"
+      ]
+    },
+    {
+      "source_sheet": "Departamentos y municipios",
+      "values": [
+        "1410",
+        "Cunén"
+      ]
+    },
+    {
+      "source_sheet": "Departamentos y municipios",
+      "values": [
+        "1411",
+        "San Juan Cotzal"
+      ]
+    },
+    {
+      "source_sheet": "Departamentos y municipios",
+      "values": [
+        "1412",
+        "Joyabaj"
+      ]
+    },
+    {
+      "source_sheet": "Departamentos y municipios",
+      "values": [
+        "1413",
+        "Nebaj"
+      ]
+    },
+    {
+      "source_sheet": "Departamentos y municipios",
+      "values": [
+        "1414",
+        "San Andrés Sajcabajá"
+      ]
+    },
+    {
+      "source_sheet": "Departamentos y municipios",
+      "values": [
+        "1415",
+        "Uspantán"
+      ]
+    },
+    {
+      "source_sheet": "Departamentos y municipios",
+      "values": [
+        "1416",
+        "Sacapulas"
+      ]
+    },
+    {
+      "source_sheet": "Departamentos y municipios",
+      "values": [
+        "1417",
+        "San Bartolomé Jocotenango"
+      ]
+    },
+    {
+      "source_sheet": "Departamentos y municipios",
+      "values": [
+        "1418",
+        "Canillá"
+      ]
+    },
+    {
+      "source_sheet": "Departamentos y municipios",
+      "values": [
+        "1419",
+        "Chicamán"
+      ]
+    },
+    {
+      "source_sheet": "Departamentos y municipios",
+      "values": [
+        "1420",
+        "Ixcán"
+      ]
+    },
+    {
+      "source_sheet": "Departamentos y municipios",
+      "values": [
+        "1421",
+        "Pachalum"
+      ]
+    },
+    {
+      "source_sheet": "Departamentos y municipios",
+      "values": [
+        "1501",
+        "Salamá"
+      ]
+    },
+    {
+      "source_sheet": "Departamentos y municipios",
+      "values": [
+        "1502",
+        "San Miguel Chicaj"
+      ]
+    },
+    {
+      "source_sheet": "Departamentos y municipios",
+      "values": [
+        "1503",
+        "Rabinal"
+      ]
+    },
+    {
+      "source_sheet": "Departamentos y municipios",
+      "values": [
+        "1504",
+        "Cubulco"
+      ]
+    },
+    {
+      "source_sheet": "Departamentos y municipios",
+      "values": [
+        "1505",
+        "Granados"
+      ]
+    },
+    {
+      "source_sheet": "Departamentos y municipios",
+      "values": [
+        "1506",
+        "El Chol"
+      ]
+    },
+    {
+      "source_sheet": "Departamentos y municipios",
+      "values": [
+        "1507",
+        "San Jerónimo"
+      ]
+    },
+    {
+      "source_sheet": "Departamentos y municipios",
+      "values": [
+        "1508",
+        "Purulhá"
+      ]
+    },
+    {
+      "source_sheet": "Departamentos y municipios",
+      "values": [
+        "1601",
+        "Cobán"
+      ]
+    },
+    {
+      "source_sheet": "Departamentos y municipios",
+      "values": [
+        "1602",
+        "Santa Cruz Verapaz"
+      ]
+    },
+    {
+      "source_sheet": "Departamentos y municipios",
+      "values": [
+        "1603",
+        "San Cristóbal Verapaz"
+      ]
+    },
+    {
+      "source_sheet": "Departamentos y municipios",
+      "values": [
+        "1604",
+        "Tactic"
+      ]
+    },
+    {
+      "source_sheet": "Departamentos y municipios",
+      "values": [
+        "1605",
+        "Tamahú"
+      ]
+    },
+    {
+      "source_sheet": "Departamentos y municipios",
+      "values": [
+        "1606",
+        "Tucurú"
+      ]
+    },
+    {
+      "source_sheet": "Departamentos y municipios",
+      "values": [
+        "1607",
+        "Panzós"
+      ]
+    },
+    {
+      "source_sheet": "Departamentos y municipios",
+      "values": [
+        "1608",
+        "Senahú"
+      ]
+    },
+    {
+      "source_sheet": "Departamentos y municipios",
+      "values": [
+        "1609",
+        "San Pedro Carchá"
+      ]
+    },
+    {
+      "source_sheet": "Departamentos y municipios",
+      "values": [
+        "1610",
+        "San Juan Chamelco"
+      ]
+    },
+    {
+      "source_sheet": "Departamentos y municipios",
+      "values": [
+        "1611",
+        "Lanquín"
+      ]
+    },
+    {
+      "source_sheet": "Departamentos y municipios",
+      "values": [
+        "1612",
+        "Cahabón"
+      ]
+    },
+    {
+      "source_sheet": "Departamentos y municipios",
+      "values": [
+        "1613",
+        "Chisec"
+      ]
+    },
+    {
+      "source_sheet": "Departamentos y municipios",
+      "values": [
+        "1614",
+        "Chahal"
+      ]
+    },
+    {
+      "source_sheet": "Departamentos y municipios",
+      "values": [
+        "1615",
+        "Fray Bartolomé de las Casas"
+      ]
+    },
+    {
+      "source_sheet": "Departamentos y municipios",
+      "values": [
+        "1616",
+        "Santa Catalina la Tinta"
+      ]
+    },
+    {
+      "source_sheet": "Departamentos y municipios",
+      "values": [
+        "1617",
+        "Raxruhá"
+      ]
+    },
+    {
+      "source_sheet": "Departamentos y municipios",
+      "values": [
+        "1701",
+        "Flores"
+      ]
+    },
+    {
+      "source_sheet": "Departamentos y municipios",
+      "values": [
+        "1702",
+        "San José"
+      ]
+    },
+    {
+      "source_sheet": "Departamentos y municipios",
+      "values": [
+        "1703",
+        "San Benito"
+      ]
+    },
+    {
+      "source_sheet": "Departamentos y municipios",
+      "values": [
+        "1704",
+        "San Andrés"
+      ]
+    },
+    {
+      "source_sheet": "Departamentos y municipios",
+      "values": [
+        "1705",
+        "La Libertad"
+      ]
+    },
+    {
+      "source_sheet": "Departamentos y municipios",
+      "values": [
+        "1706",
+        "San Francisco"
+      ]
+    },
+    {
+      "source_sheet": "Departamentos y municipios",
+      "values": [
+        "1707",
+        "Santa Ana"
+      ]
+    },
+    {
+      "source_sheet": "Departamentos y municipios",
+      "values": [
+        "1708",
+        "Dolores"
+      ]
+    },
+    {
+      "source_sheet": "Departamentos y municipios",
+      "values": [
+        "1709",
+        "San Luis"
+      ]
+    },
+    {
+      "source_sheet": "Departamentos y municipios",
+      "values": [
+        "1710",
+        "Sayaxché"
+      ]
+    },
+    {
+      "source_sheet": "Departamentos y municipios",
+      "values": [
+        "1711",
+        "Melchor de Mencos"
+      ]
+    },
+    {
+      "source_sheet": "Departamentos y municipios",
+      "values": [
+        "1712",
+        "Poptún"
+      ]
+    },
+    {
+      "source_sheet": "Departamentos y municipios",
+      "values": [
+        "1713",
+        "Las Cruces"
+      ]
+    },
+    {
+      "source_sheet": "Departamentos y municipios",
+      "values": [
+        "1714",
+        "El Chal"
+      ]
+    },
+    {
+      "source_sheet": "Departamentos y municipios",
+      "values": [
+        "1801",
+        "Puerto Barrios"
+      ]
+    },
+    {
+      "source_sheet": "Departamentos y municipios",
+      "values": [
+        "1802",
+        "Livingston"
+      ]
+    },
+    {
+      "source_sheet": "Departamentos y municipios",
+      "values": [
+        "1803",
+        "El Estor"
+      ]
+    },
+    {
+      "source_sheet": "Departamentos y municipios",
+      "values": [
+        "1804",
+        "Morales"
+      ]
+    },
+    {
+      "source_sheet": "Departamentos y municipios",
+      "values": [
+        "1805",
+        "Los Amates"
+      ]
+    },
+    {
+      "source_sheet": "Departamentos y municipios",
+      "values": [
+        "1901",
+        "Zacapa"
+      ]
+    },
+    {
+      "source_sheet": "Departamentos y municipios",
+      "values": [
+        "1902",
+        "Estanzuela"
+      ]
+    },
+    {
+      "source_sheet": "Departamentos y municipios",
+      "values": [
+        "1903",
+        "Río Hondo"
+      ]
+    },
+    {
+      "source_sheet": "Departamentos y municipios",
+      "values": [
+        "1904",
+        "Gualán"
+      ]
+    },
+    {
+      "source_sheet": "Departamentos y municipios",
+      "values": [
+        "1905",
+        "Teculután"
+      ]
+    },
+    {
+      "source_sheet": "Departamentos y municipios",
+      "values": [
+        "1906",
+        "Usumatlán"
+      ]
+    },
+    {
+      "source_sheet": "Departamentos y municipios",
+      "values": [
+        "1907",
+        "Cabañas"
+      ]
+    },
+    {
+      "source_sheet": "Departamentos y municipios",
+      "values": [
+        "1908",
+        "San Diego"
+      ]
+    },
+    {
+      "source_sheet": "Departamentos y municipios",
+      "values": [
+        "1909",
+        "La Unión"
+      ]
+    },
+    {
+      "source_sheet": "Departamentos y municipios",
+      "values": [
+        "1910",
+        "Huité"
+      ]
+    },
+    {
+      "source_sheet": "Departamentos y municipios",
+      "values": [
+        "1911",
+        "San Jorge"
+      ]
+    },
+    {
+      "source_sheet": "Departamentos y municipios",
+      "values": [
+        "2001",
+        "Chiquimula"
+      ]
+    },
+    {
+      "source_sheet": "Departamentos y municipios",
+      "values": [
+        "2002",
+        "San José La Arada"
+      ]
+    },
+    {
+      "source_sheet": "Departamentos y municipios",
+      "values": [
+        "2003",
+        "San Juan Ermita"
+      ]
+    },
+    {
+      "source_sheet": "Departamentos y municipios",
+      "values": [
+        "2004",
+        "Jocotán"
+      ]
+    },
+    {
+      "source_sheet": "Departamentos y municipios",
+      "values": [
+        "2005",
+        "Camotán"
+      ]
+    },
+    {
+      "source_sheet": "Departamentos y municipios",
+      "values": [
+        "2006",
+        "Olopa"
+      ]
+    },
+    {
+      "source_sheet": "Departamentos y municipios",
+      "values": [
+        "2007",
+        "Esquipulas"
+      ]
+    },
+    {
+      "source_sheet": "Departamentos y municipios",
+      "values": [
+        "2008",
+        "Concepción Las Minas"
+      ]
+    },
+    {
+      "source_sheet": "Departamentos y municipios",
+      "values": [
+        "2009",
+        "Quetzaltepeque"
+      ]
+    },
+    {
+      "source_sheet": "Departamentos y municipios",
+      "values": [
+        "2010",
+        "San Jacinto"
+      ]
+    },
+    {
+      "source_sheet": "Departamentos y municipios",
+      "values": [
+        "2011",
+        "Ipala"
+      ]
+    },
+    {
+      "source_sheet": "Departamentos y municipios",
+      "values": [
+        "2101",
+        "Jalapa"
+      ]
+    },
+    {
+      "source_sheet": "Departamentos y municipios",
+      "values": [
+        "2102",
+        "San Pedro Pinula"
+      ]
+    },
+    {
+      "source_sheet": "Departamentos y municipios",
+      "values": [
+        "2103",
+        "San Luis Jilotepeque"
+      ]
+    },
+    {
+      "source_sheet": "Departamentos y municipios",
+      "values": [
+        "2104",
+        "San Manuel Chaparrón"
+      ]
+    },
+    {
+      "source_sheet": "Departamentos y municipios",
+      "values": [
+        "2105",
+        "San Carlos Alzatate"
+      ]
+    },
+    {
+      "source_sheet": "Departamentos y municipios",
+      "values": [
+        "2106",
+        "Monjas"
+      ]
+    },
+    {
+      "source_sheet": "Departamentos y municipios",
+      "values": [
+        "2107",
+        "Mataquescuintla"
+      ]
+    },
+    {
+      "source_sheet": "Departamentos y municipios",
+      "values": [
+        "2201",
+        "Jutiapa"
+      ]
+    },
+    {
+      "source_sheet": "Departamentos y municipios",
+      "values": [
+        "2202",
+        "El Progreso"
+      ]
+    },
+    {
+      "source_sheet": "Departamentos y municipios",
+      "values": [
+        "2203",
+        "Santa Catarina Mita"
+      ]
+    },
+    {
+      "source_sheet": "Departamentos y municipios",
+      "values": [
+        "2204",
+        "Agua Blanca"
+      ]
+    },
+    {
+      "source_sheet": "Departamentos y municipios",
+      "values": [
+        "2205",
+        "Asunción Mita"
+      ]
+    },
+    {
+      "source_sheet": "Departamentos y municipios",
+      "values": [
+        "2206",
+        "Yupiltepeque"
+      ]
+    },
+    {
+      "source_sheet": "Departamentos y municipios",
+      "values": [
+        "2207",
+        "Atescatempa"
+      ]
+    },
+    {
+      "source_sheet": "Departamentos y municipios",
+      "values": [
+        "2208",
+        "Jerez"
+      ]
+    },
+    {
+      "source_sheet": "Departamentos y municipios",
+      "values": [
+        "2209",
+        "El Adelanto"
+      ]
+    },
+    {
+      "source_sheet": "Departamentos y municipios",
+      "values": [
+        "2210",
+        "Zapotitlán"
+      ]
+    },
+    {
+      "source_sheet": "Departamentos y municipios",
+      "values": [
+        "2211",
+        "Comapa"
+      ]
+    },
+    {
+      "source_sheet": "Departamentos y municipios",
+      "values": [
+        "2212",
+        "Jalpatagua"
+      ]
+    },
+    {
+      "source_sheet": "Departamentos y municipios",
+      "values": [
+        "2213",
+        "Conguaco"
+      ]
+    },
+    {
+      "source_sheet": "Departamentos y municipios",
+      "values": [
+        "2214",
+        "Moyuta"
+      ]
+    },
+    {
+      "source_sheet": "Departamentos y municipios",
+      "values": [
+        "2215",
+        "Pasaco"
+      ]
+    },
+    {
+      "source_sheet": "Departamentos y municipios",
+      "values": [
+        "2216",
+        "San José Acatempa"
+      ]
+    },
+    {
+      "source_sheet": "Departamentos y municipios",
+      "values": [
+        "2217",
+        "Quesada"
+      ]
+    },
+    {
+      "source_sheet": "Financiamiento Público",
+      "values": [
+        "Diccionario de variables Financiamiento público en Educación"
+      ]
+    },
+    {
+      "source_sheet": "Financiamiento Público",
+      "values": [
+        "Ubicación",
+        "Variable",
+        "Descripción"
+      ]
+    },
+    {
+      "source_sheet": "Financiamiento Público",
+      "values": [
+        "A",
+        "Ejercicio",
+        "Unidad de tiempo a la que corresponde la información registrada."
+      ]
+    },
+    {
+      "source_sheet": "Financiamiento Público",
+      "values": [
+        "B",
+        "sector",
+        "Clasificación del presupuesto según sector público al que pertenecen los registros; puede ser Administración Central o Instituciones Descentralizadas."
+      ]
+    },
+    {
+      "source_sheet": "Financiamiento Público",
+      "values": [
+        "C",
+        "Entidad",
+        "Mecanismos de índole social y cooperativa, que procuran ordenar y normalizar el comportamiento de un grupo de individuos, buscando el mayor beneficio para el grupo. Son  los usos, hábitos, costumbres o normas por los que se rigen las relaciones sociales y económicas entre los miembros del grupo."
+      ]
+    },
+    {
+      "source_sheet": "Financiamiento Público",
+      "values": [
+        "D",
+        "Descripción Entidad"
+      ]
+    },
+    {
+      "source_sheet": "Financiamiento Público",
+      "values": [
+        "E",
+        "Unidad Ejecutora",
+        "Son las dependencias administrativas, o subdivisiones de ellas, como los departamentos o secciones, que realizan subprogramas, actividades o proyectos específicos."
+      ]
+    },
+    {
+      "source_sheet": "Financiamiento Público",
+      "values": [
+        "F",
+        "Descripción Unidad Ejecutora"
+      ]
+    },
+    {
+      "source_sheet": "Financiamiento Público",
+      "values": [
+        "G",
+        "Economico Nivel 2",
+        "Está conformado por:\n-Gastos Corrientes: está formado por los gastos de consumo, (Remuneraciones, Bienes y Servicios, Impuestos Indirectos y Descuentos y Bonificaciones), Renta de la Propiedad (intereses de la deuda pública, arrendamiento de tierra y terrenos, derechos sobre bienes intangibles) Prestaciones a la Seguridad Social y Transferencias Corrientes (al Gobierno General, Sector Público Empresarial y Sector Externo). El gasto militar en compra de maquinaria y equipo y construcciones militares, forma parte de estos gastos.\n-Gastos de Capital: gasto destinado a la adquisición o producción de bienes materiales e intangibles e inversión financiera (cuando se realiza en función de la política fiscal, por parte del Gobierno Central), que incrementan el activo del Estado y sirven de base para la producción de bienes y servicios. Los gastos de capital incluyen la inversión real, las transferencias de capital y la inversión financiera del Gobierno Central.                                                               -Aplicaciones Financieras: las aplicaciones financieras surgen por el incremento de los activos financieros y la disminución de pasivos públicos."
+      ]
+    },
+    {
+      "source_sheet": "Financiamiento Público",
+      "values": [
+        "H",
+        "Descripción Economico Nivel 2"
+      ]
+    },
+    {
+      "source_sheet": "Financiamiento Público",
+      "values": [
+        "I",
+        "Programa",
+        "Categoría presupuestaria que reúne las acciones que desarrollan las Entidades del Estado para el cumplimiento de sus propósitos y políticas que desenvuelven para el año fiscal. En tal sentido, comprende a los objetivos Institucionales de carácter general."
+      ]
+    },
+    {
+      "source_sheet": "Financiamiento Público",
+      "values": [
+        "J",
+        "Descripción Programa"
+      ]
+    },
+    {
+      "source_sheet": "Financiamiento Público",
+      "values": [
+        "K",
+        "Subprograma",
+        "Categoría programática que representa la segmentación del programa en donde se establecen objetivos, metas, recursos y responsables para su ejecución; tiene como finalidad facilitar la ejecución y el control de acciones homogéneas."
+      ]
+    },
+    {
+      "source_sheet": "Financiamiento Público",
+      "values": [
+        "L",
+        "Descripción Subprograma"
+      ]
+    },
+    {
+      "source_sheet": "Financiamiento Público",
+      "values": [
+        "M",
+        "Proyecto",
+        "Conjunto de actividades afines y complementarias que se derivan de un programa y que tienen como características, un responsable, un período de ejecución, costo estimado y resultado esperado. Es la unidad de inversión menor que se considera en la programación. Por lo general, constituye un esquema coherente desde el punto de vista técnico, cuya ejecución se encomienda a un organismo público y que técnicamente puede llevarse a cabo con independencia de otros proyectos."
+      ]
+    },
+    {
+      "source_sheet": "Financiamiento Público",
+      "values": [
+        "N",
+        "Descripción Proyecto"
+      ]
+    },
+    {
+      "source_sheet": "Financiamiento Público",
+      "values": [
+        "O",
+        "Actividad u Obra",
+        "Es el área de funcionamiento de las instituciones, la categoría programática de menor nivel, y es indivisible para fines de asignación de recursos. Su producto (bien o servicio) es siempre intermedio."
+      ]
+    },
+    {
+      "source_sheet": "Financiamiento Público",
+      "values": [
+        "P",
+        "Descripción Actividad u obra"
+      ]
+    },
+    {
+      "source_sheet": "Financiamiento Público",
+      "values": [
+        "Q",
+        "Grupo Gasto",
+        "Esta estructura obedece a la clasificación presupuestaria por objeto del gasto, la cual constituye una ordenación sistemática y homogénea de los bienes y servicios, las transferencias y las variaciones de activos y pasivos que el sector público aplica en el desarrollo de su proceso productivo. Así, esta estructura permite niveles de desagregación en las cuentas para facilitar el registro único de todas las transacciones con incidencia económico-financiera que realizan las instituciones públicas."
+      ]
+    },
+    {
+      "source_sheet": "Financiamiento Público",
+      "values": [
+        "R",
+        "Descripción Grupo Gasto"
+      ]
+    },
+    {
+      "source_sheet": "Financiamiento Público",
+      "values": [
+        "S",
+        "Subgrupo Gasto"
+      ]
+    },
+    {
+      "source_sheet": "Financiamiento Público",
+      "values": [
+        "T",
+        "Descripción Subgrupo de Gasto"
+      ]
+    },
+    {
+      "source_sheet": "Financiamiento Público",
+      "values": [
+        "U",
+        "Renglón"
+      ]
+    },
+    {
+      "source_sheet": "Financiamiento Público",
+      "values": [
+        "V",
+        "Descripción Renglon"
+      ]
+    },
+    {
+      "source_sheet": "Financiamiento Público",
+      "values": [
+        "W",
+        "Finalidad",
+        "La clasificación por finalidades muestra los objetivos generales del gobierno."
+      ]
+    },
+    {
+      "source_sheet": "Financiamiento Público",
+      "values": [
+        "X",
+        "Descripción  Finalidad"
+      ]
+    },
+    {
+      "source_sheet": "Financiamiento Público",
+      "values": [
+        "Y",
+        "Función",
+        "La clasificación por funciones permite detallar los medios de que vale para cumplir con sus objetivos generales."
+      ]
+    },
+    {
+      "source_sheet": "Financiamiento Público",
+      "values": [
+        "Z",
+        "Descripción Funcion"
+      ]
+    },
+    {
+      "source_sheet": "Financiamiento Público",
+      "values": [
+        "AA",
+        "División",
+        "Generalmente las instituciones están encargadas de la formulación, administración, coordinación y control de las políticas, planes, programas y presupuestos globales; la elaboración y aplicación de las leyes, y la producción y divulgación de información general, documentación técnica y estadísticas. Por consiguiente, las erogaciones de esas instituciones tienen que distribuirse entre divisiones."
+      ]
+    },
+    {
+      "source_sheet": "Financiamiento Público",
+      "values": [
+        "AB",
+        "Descripción Division"
+      ]
+    },
+    {
+      "source_sheet": "Financiamiento Público",
+      "values": [
+        "AC",
+        "Asignado",
+        "Es la previsión de ingresos y gastos, debidamente equilibrada, que las entidades asignan para un ejercicio determinado. Los niveles de gasto considerados en el presupuesto constituyen la autorización máxima de egresos cuya ejecución se sujeta a la efectiva captación, recaudación y obtención de los recursos que administran las Entidades."
+      ]
+    },
+    {
+      "source_sheet": "Financiamiento Público",
+      "values": [
+        "AD",
+        "Modificado",
+        "Es el valor total de las modificaciones presupuestarias que se realizan conforme a la ley, durante la ejecución del presupuesto. Es decir, el monto asignado inicialmente incluye las adiciones, disminuciones y transferencias que se efectúan al presupuesto."
+      ]
+    },
+    {
+      "source_sheet": "Financiamiento Público",
+      "values": [
+        "AE",
+        "Vigente",
+        "Estimación del saldo o remanente de recursos susceptibles de ser utilizados, el cual resulta de restar a una asignación presupuestaria las cantidades ejercidas y comprometidas con cargo a dicha asignación."
+      ]
+    },
+    {
+      "source_sheet": "Financiamiento Público",
+      "values": [
+        "AF",
+        "Pre Compromiso",
+        "El registro del pre-compromiso es un acto de administración interna, útil para dejar constancia, certificar o verificar la disponibilidad de créditos presupuestarios y efectuar la reserva de los mismos al inicio de un trámite de gastos, de una compra o de una contratación.\nEl pre-compromiso no constituye un momento contable, es un registro presupuestario auxiliar de la administración de créditos para las Gerencias Administrativas y Unidades Ejecutoras. No incide en la  contabilidad general porque no modifica la composición del patrimonio."
+      ]
+    },
+    {
+      "source_sheet": "Financiamiento Público",
+      "values": [
+        "AG",
+        "Compromiso",
+        "Para la ejecución del presupuesto de egresos se considera comprometido un crédito presupuestario cuando en virtud de autoridad competente se dispone su utilización, debiendo en dicho acto quedar determinado el monto, la persona de quien se adquirirá el bien o servicio en caso de contraprestación, o el beneficio si el acto es sin contraprestación, para lo cual deberá afectarse preventivamente el crédito presupuestario en el monto que corresponda. Es el momento en que la autoridad reserva una partida presupuestaria cuyo trámite se inicia formalmente para atender una obligación futura."
+      ]
+    },
+    {
+      "source_sheet": "Financiamiento Público",
+      "values": [
+        "AH",
+        "Devengado",
+        "Para la ejecución del presupuesto de egresos se considera devengado un gasto cuando queda afectado definitivamente el crédito presupuestario al cumplirse la condición que haga exigible una deuda, con la recepción conforme de los bienes y servicios o al disponerse el pago de aportes, subsidios o anticipos. Es el momento de la ejecución del gasto en que la deuda se hace exigible al ingresar a la Institución los bienes o servicios o al disponerse el pago de aportes, subsidios o anticipos. Aquí se producen hechos jurídicos y es la etapa del registro que capta la contabilidad patrimonial y el nexo de integración en el sistema presupuestario."
+      ]
+    },
+    {
+      "source_sheet": "Financiamiento Público",
+      "values": [
+        "AI",
+        "Pagado",
+        "Es la etapa de registro cuando una obligación generada en el devengado, se honra mediante el pago."
+      ]
+    },
+    {
+      "source_sheet": "Financiamiento Público",
+      "values": [
+        "AJ",
+        "Saldo por Comprometer",
+        "Es la diferencia entre el Presupuesto Vigente y el Comprometido."
+      ]
+    },
+    {
+      "source_sheet": "Financiamiento Público",
+      "values": [
+        "AK",
+        "Saldo por Devengar",
+        "Es la diferencia entre el Presupuesto Vigente y el Devengado."
+      ]
+    },
+    {
+      "source_sheet": "Financiamiento Público",
+      "values": [
+        "AL",
+        "Saldo por Pagar",
+        "Es la diferencia entre el Devengado y el Pagado."
+      ]
+    },
+    {
+      "source_sheet": "Financiamiento Público",
+      "values": [
+        "AM",
+        "% Ejecución",
+        "Ejecución del presupuesto en términos financieros."
+      ]
+    },
+    {
+      "source_sheet": "Financiamiento Público",
+      "values": [
+        "AN",
+        "Transferencias",
+        "Transferencias entre diferentes niveles de gobierno que son de carácter general y no están asignadas a una función determinada. En la base de datos se identifica como 70180."
+      ]
+    }
+  ]
+}
