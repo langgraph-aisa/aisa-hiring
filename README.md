@@ -10,7 +10,7 @@
 
 ## 1. Propósito y alcance
 
-Talento Claro es una solución web para administrar la postulación y evaluación de candidatos por plaza laboral. Sustituye la dependencia de Google Sheets por formularios propios y una base de datos PostgreSQL transaccional. La solución separa el canal público de postulación, el panel interno de reclutamiento, el constructor de formularios, los agentes de evaluación y la continuación de entrevistas por WhatsApp.
+Talento AISA es una solución web para administrar la postulación y evaluación de candidatos por plaza laboral. Sustituye la dependencia de Google Sheets por formularios propios y una base de datos PostgreSQL transaccional. La solución separa el canal público de postulación, el panel interno de reclutamiento, el constructor de formularios, los agentes de evaluación y la continuación de entrevistas por WhatsApp.
 
 El diseño se organiza alrededor de una regla central: **una aplicación finalizada se identifica por la combinación del teléfono normalizado del candidato y la plaza laboral**. Las respuestas no se guardan hasta que el candidato pulse `Enviar formulario`. Una vez registrada la aplicación, un segundo intento para la misma plaza se rechaza con un aviso claro.
 
