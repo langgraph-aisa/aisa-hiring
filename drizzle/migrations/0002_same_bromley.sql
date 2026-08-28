@@ -1,0 +1,2 @@
+ALTER TABLE "job_positions" ADD COLUMN "whatsapp_message" text DEFAULT 'Gracias por aplicar. Te contactaremos para continuar con tu proceso de evaluación.';--> statement-breakpoint
+ALTER TABLE "job_positions" ADD COLUMN "default_country" varchar(2) DEFAULT 'GT' NOT NULL;
